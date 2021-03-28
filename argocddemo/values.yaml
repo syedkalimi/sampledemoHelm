@@ -1,8 +1,8 @@
 replicaCount: 1
 image:
-  repository: img
+  repository: docker.io/syedkalimi/sampledemo
   pullPolicy: IfNotPresent
-  tag: tag
+  tag: v19
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''

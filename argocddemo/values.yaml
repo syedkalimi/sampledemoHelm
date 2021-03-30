@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: docker.io/syedkalimi/sampledemo
   pullPolicy: IfNotPresent
-  tag: v4
+  tag: v5
 imagePullSecrets: []
 nameOverride: ''
 fullnameOverride: ''
